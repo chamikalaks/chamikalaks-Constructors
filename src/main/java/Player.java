@@ -10,8 +10,7 @@
  * The second constructor will use a player's name and level to set the Player object's respective field.
  *
  * These constructors would be called to instantiate the object as seen is a previous lab:
- *      Player newPlayer = new Player("Mario");
- *      Player newPlayer = new Player("Mario", 35);
+ *      ageMonthsageMonths
  **/
 public class Player {
     public String playerName;
